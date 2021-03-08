@@ -4,4 +4,54 @@ source_metadata:
   id: bdr:W23726
   title: གསུང་འབུམ། བློ་བཟང་ཚུལ་ཁྲིམས
   author: ''
-  volumes: {}
+  volumes:
+    95160fdb4b2947df8736482c0ed0edcb:
+      image_group_id: I2509
+      title: ''
+      volume_number: 1
+      total_pages: 706
+    ecfe3157e24c4e389e45eec63398d6a9:
+      image_group_id: I2510
+      title: ''
+      volume_number: 2
+      total_pages: 794
+    73ee37f801e948c19d0233d45aca431b:
+      image_group_id: I2511
+      title: ''
+      volume_number: 3
+      total_pages: 692
+    c43c54c6b80f4a5ea4080f586dce1cc6:
+      image_group_id: I2512
+      title: ''
+      volume_number: 4
+      total_pages: 646
+    b136d06eb712408c809e05ee33b0ff77:
+      image_group_id: I2513
+      title: ''
+      volume_number: 5
+      total_pages: 638
+    c3c314b020e24b6082725ab60a472ac1:
+      image_group_id: I2514
+      title: ''
+      volume_number: 6
+      total_pages: 644
+    f3f2ca81ef4040c8b090ce52b2f56549:
+      image_group_id: I2515
+      title: ''
+      volume_number: 7
+      total_pages: 614
+    9c306f41e053439383a96ce4f7ca862d:
+      image_group_id: I2516
+      title: ''
+      volume_number: 8
+      total_pages: 690
+    3daaf20990c54faaaaacbeec8b3118c5:
+      image_group_id: I2517
+      title: ''
+      volume_number: 9
+      total_pages: 444
+    bcf28bb4f4eb42759e3241e9737aaff9:
+      image_group_id: I2518
+      title: ''
+      volume_number: 10
+      total_pages: 548
